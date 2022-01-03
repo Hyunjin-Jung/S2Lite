@@ -1,0 +1,10 @@
+﻿  BuyItem.c
+C:\Users\hjjun\OneDrive\바탕 화면\발표용\data.h(114,69): warning C4091: 'extern ': 변수를 선언하지 않으면 'INVENTORY_RANK' 왼쪽은 무시됩니다.
+C:\Users\hjjun\OneDrive\바탕 화면\발표용\BuyItem.h(14,1): warning C4005: 'EXP': 매크로 재정의
+C:\Users\hjjun\OneDrive\바탕 화면\발표용\data.h(50): message : 'EXP'의 이전 정의를 참조하십시오.
+C:\Users\hjjun\OneDrive\바탕 화면\발표용\BuyItem.c(405,18): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hjjun\OneDrive\바탕 화면\발표용\BuyItem.c(408,39): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hjjun\OneDrive\바탕 화면\발표용\BuyItem.c(427,40): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hjjun\OneDrive\바탕 화면\발표용\BuyItem.c(378,1): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hjjun\OneDrive\바탕 화면\발표용\BuyItem.c(380,10): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  소설기_projectFile.vcxproj -> C:\Users\hjjun\OneDrive\바탕 화면\발표용\x64\Debug\소설기_projectFile.exe
